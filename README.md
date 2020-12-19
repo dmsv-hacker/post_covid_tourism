@@ -5,3 +5,5 @@ The project Tour Spot is dedicated to Hackademia Hackathon ,which is organised v
 In this project we have used HTML, CSS and JS.
 
 It provides categorised places( i.e., museums, monuments, statues, hillstations, National Parks and etc) that every tourist can figure out and visit as per their interest. For further support we have also added a chatbot to solve their queries and help them creating awareness and preventive measures against Covid - 19.
+
+We hope our project will make awake the wanderlust mind and get ready for a backpacking trip.
